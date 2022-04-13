@@ -1,4 +1,4 @@
-## NOTE: This is a fork from the main facets-preview repo at taylor-lab/facets-preview/. 
+## NOTE: This is the development version of mskcc/facets-preview/. 
 ## This was created to handle modifications for the OnDemand facets preview service by Adam Price.
 
 # facets-preview
